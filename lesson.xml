@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+	<title>Животные</title>
+	<description>Определение классов животных</description>
+	<required>1</required>
+	<tasks> 
+		<title>Определить класс животного</title>
+		<questions>
+			<1>
+				<question>Вреблюд млекопитающий?</question>
+				<answer>Да!</answer>
+				<required>1</required>
+			</1>
+			<2>
+				<question>Волк это хищник?</question>
+				<answer>Да!</answer>
+				<required>0</required>
+			</2>
+		</questions>
+	</tasks>
+	<title>Растения</title>
+	<description>Определение классов растений</description>
+	<required>0</required>
+	<tasks> 
+		<title>Определить отдел растения</title>
+		<questions>
+			<1>
+				<question>Пихта это высшее растени??</question>
+				<answer>Да!</answer>
+				<required>1</required>
+			</1>
+			<2>
+				<question>Гриб это растение?</question>
+				<answer>Нет</answer>
+				<required>0</required>
+			</2>
+		</questions>
+	</tasks>
+</lesson>
